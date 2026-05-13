@@ -10,7 +10,7 @@ arxiv API → PDF download → text extraction → chunking → embedding → FA
                                               user query → retrieve top-k chunks → LLM → cited answer
 ```
 
-**Stack:** Python · FAISS · sentence-transformers · PyMuPDF · Anthropic API · Rich(for stylized command line prompts)
+**Stack:** Python · FAISS · sentence-transformers · PyMuPDF · Ollama · Rich
 
 ## Setup
 
